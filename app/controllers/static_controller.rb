@@ -1,4 +1,5 @@
-# app/controllers/greetings_controller.rb
+# frozen_string_literal: true
+
 class StaticController < ApplicationController
   def index; end
 end

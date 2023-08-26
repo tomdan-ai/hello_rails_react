@@ -150,6 +150,6 @@ Thanks to Microverse for their support.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
   
 ## :memo: License <a name="license"></a>
-This project is [MIT](../MIT.md) licensed.
+This project is [MIT](https://github.com/tomdan-ai/hello_rails_react/blob/rails-react/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -8,6 +8,9 @@
   },
   "dependencies": {
     "@babel/preset-react": "^7.16.7",
+    "babel-loader": "^8.2.3",
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
     "@rails/webpacker": "5.4.3",
     "axios": "^0.25.0",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
